@@ -5,8 +5,7 @@ Affichage des villes :
 Modification :
 ![Capture d’écran (353)](https://github.com/Nouhaila25/EJB/assets/116907282/a4035426-d9af-4486-bb0b-564f3cda0622)
 ![Capture d’écran (354)](https://github.com/Nouhaila25/EJB/assets/116907282/dbb2ac7d-e27d-4cdf-a515-beaef44a55b2)
-Suppression:
-![Capture d’écran (355)](https://github.com/Nouhaila25/EJB/assets/116907282/85ffe99a-0bc9-47f4-9194-f3098d6d785e)
+
 ## Gestion des Hotels
 ![Capture d’écran (358)](https://github.com/Nouhaila25/ProjetEJB/assets/116907282/2061205b-433c-4c30-a6b1-9ffa56396dda)
 
